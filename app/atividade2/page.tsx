@@ -17,7 +17,7 @@ const initialForm: UserFormData = {
     competencias: "",
   },
   habilidades: ["", "", ""],
-};
+};  
 
 export default function Atividade2Page() {
   const router = useRouter();
